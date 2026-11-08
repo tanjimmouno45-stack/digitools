@@ -5,4 +5,5 @@
 body {
   font-family: "Manrope", sans-serif;
   color: #0f172a;
+  overflow-x: hidden;
 }

@@ -7,7 +7,7 @@ const columns = [
 export default function Footer() {
   return (
     <footer className="bg-slate-900 text-slate-300 pt-12 pb-6">
-      <div className="max-w-6xl mx-auto px-4 grid grid-cols-2 md:grid-cols-5 gap-8">
+    <div className="max-w-6xl mx-auto px-4 grid grid-cols-2 md:grid-cols-6 gap-8">
         <div className="col-span-2">
           <h3 className="text-xl font-extrabold text-white">DigiTools</h3>
           <p className="text-xs text-slate-400 mt-3 max-w-xs">

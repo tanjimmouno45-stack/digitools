@@ -12,7 +12,7 @@ export default function Banner() {
           Access premium AI tools, design assets, templates, and productivity software—all in one place.
           Start building faster today.
         </p>
-        <div className="flex gap-3 mt-6">
+        <div className="flex flex-wrap gap-3 mt-6">
           <a href="#products" className="btn btn-sm bg-brand hover:bg-purple-700 text-white border-none rounded-full px-5">
             Explore Products
           </a>
